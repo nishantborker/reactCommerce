@@ -89,20 +89,20 @@ cd ReactCommerce
 
 Login Page
 
-![image](https://github.com/nishantborker/ReactCommerce/assets/98690341/ae47cd41-6690-4755-9d0d-678c8292dd28)
+![Alt text](https://github.com/nishantborker/ReactCommerce/assets/98690341/ae47cd41-6690-4755-9d0d-678c8292dd28)
 
 Home Page
 
-![image](https://github.com/nishantborker/ReactCommerce/assets/98690341/303dadc2-77a7-4028-850f-c0339ac8aecd)
+![Alt text](https://github.com/nishantborker/ReactCommerce/assets/98690341/303dadc2-77a7-4028-850f-c0339ac8aecd)
 
 
 Product Page
 
-![image](https://github.com/nishantborker/ReactCommerce/assets/98690341/595b8aa5-23c1-4cb5-8381-00482e29d981)
+![Alt text](https://github.com/nishantborker/ReactCommerce/assets/98690341/595b8aa5-23c1-4cb5-8381-00482e29d981)
 
 
 Product Detail Page
 
-![image](https://github.com/nishantborker/ReactCommerce/assets/98690341/963467e7-21fa-4026-9887-1b420f0d8d52)
+![Alt text](https://github.com/nishantborker/ReactCommerce/assets/98690341/963467e7-21fa-4026-9887-1b420f0d8d52)
 
 #
